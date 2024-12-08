@@ -4,7 +4,7 @@
   "btnFgColor": "#FFFFFF",
   "isGoogleEnabled": false,
   "isAppleEnabled": false,
-  "loginBtnText": "Log Innn",
+  "loginBtnText": "Log In",
   "signupBtnText": "Create Accountttt",
   "endpoints": {
     "base": "https://some-api.com/",

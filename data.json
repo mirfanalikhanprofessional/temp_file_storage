@@ -17,7 +17,7 @@
     "_widget_2": {
       "type": "text",
       "text": "Need sleep (((((:",
-      "priority": "",
+      "priority": 43,
       "fontSize": "67",
       "isBold": false
     },

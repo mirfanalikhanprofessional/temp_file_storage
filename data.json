@@ -2,7 +2,7 @@
   "companyLogoPath": "https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944876.png",
   "btnBgColor": "#FF5733",
   "btnFgColor": "#FFFFFF",
-  "isGoogleEnabled": true,
+  "isGoogleEnabled": false,
   "isAppleEnabled": true,
   "loginBtnText": "Log In",
   "signupBtnText": "Create Account",

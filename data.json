@@ -15,7 +15,8 @@
   },
   "aboutData": {
     "_widget_1": {
-      "type": "image"
+      "type": "image",
+      "url": ""
     },
     "_widget_2": {
       "type": "text",

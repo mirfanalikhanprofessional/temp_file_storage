@@ -21,14 +21,6 @@
       "fontSize": "67",
       "isBold": false
     },
-    "_widget_31": {
-      "type": "image",
-      "priority": 31,
-      "url": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/77/Eren_Jaeger_%28Anime%29_character_image_%28845%29.png",
-      "size": "100x300",
-      "isBold": false,
-      "align": "start"
-    },
     "_widget_47": {
       "type": "slider",
       "priority": 47,

@@ -8,7 +8,7 @@
   "signupBtnText": "Create Account",
   "endpoints": {
     "base": "https://some-api.com/",
-    "login": "login",
+    "login": "logindddd",
     "signup": "signuuuup",
     "forgotPassword": "forgot-password",
     "resetPassword": "reset-password"

@@ -9,7 +9,7 @@
   "endpoints": {
     "base": "https://some-api.com/",
     "login": "loginddddww",
-    "signup": "signuuuup",
+    "signup": "signuuuupfffff",
     "forgotPassword": "forgot-password",
     "resetPassword": "reset-password"
   },

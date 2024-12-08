@@ -1,7 +1,44 @@
 {
-  "type": "text",
-  "text": "Need sleep (:",
-  "priority": 2,
-  "fontSize": "20",
-  "isBold": false
+  "companyLogoPath": "https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944876.png",
+  "btnBgColor": "#FF5733",
+  "btnFgColor": "#FFFFFF",
+  "isGoogleEnabled": true,
+  "isAppleEnabled": false,
+  "loginBtnText": "Log In",
+  "signupBtnText": "Create Account",
+  "endpoints": {
+    "base": "https://some-api.com/",
+    "login": "login",
+    "signup": "signup",
+    "forgotPassword": "forgot-password",
+    "resetPassword": "reset-password"
+  },
+  "aboutData": {
+    "_widget_1": {
+      "type": "image",
+      "size": "200x370",
+      "url": "https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"
+    },
+    "_widget_2": {
+      "type": "text",
+      "text": "Need sleep (:",
+      "priority": 2,
+      "fontSize": "20",
+      "isBold": false
+    },
+    "_widget_47": {
+      "2": "https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.u2.jpg",
+      "type": "slider",
+      "priority": 47,
+      "size": "100x300",
+      "images": [
+        "https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.u2.jpg",
+        "https://ih1.redbubble.net/image.4598462114.1838/mo,small,flatlay,product_square,600x600.jpg"
+      ]
+    },
+    "_widget_97": {
+      "type": "sized_box",
+      "height": 30
+    }
+  }
 }

@@ -3,7 +3,7 @@
   "btnBgColor": "#FF5733",
   "btnFgColor": "#FFFFFF",
   "isGoogleEnabled": false,
-  "isAppleEnabled": true,
+  "isAppleEnabled": false,
   "loginBtnText": "Log Innn",
   "signupBtnText": "Create Accountttt",
   "endpoints": {

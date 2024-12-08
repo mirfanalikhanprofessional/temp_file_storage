@@ -1,5 +1,49 @@
 {
-  "test": "One",
-  "Laracast": "Lococast",
-  "tarzon": "coming"
+  "companyLogoPath": "https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944876.png",
+  "btnBgColor": "#FF5733",
+  "btnFgColor": "#FFFFFF",
+  "isGoogleEnabled": true,
+  "isAppleEnabled": true,
+  "loginBtnText": "Log Inn",
+  "signupBtnText": "Create Accountt",
+  "endpoints": {
+    "base":"https://some-api.com/", 
+    "login": "login",
+    "signup": "signup",
+    "forgotPassword": "forgot-password",
+    "resetPassword": "reset-password"
+  },
+  "aboutData": {
+    "_widget_2": {
+      "type": "text",
+      "text": "Need sleep (:",
+      "priority": 2,
+      "fontSize": "67",
+      "isBold": false
+    },
+    
+    "_widget_31": {
+      "type": "image",
+      "priority": 31,
+      "url": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/77/Eren_Jaeger_%28Anime%29_character_image_%28845%29.png",
+      "size": "100x300",
+      "isBold": false,
+      "align": "start"
+    },
+    
+    "_widget_47": {
+      "type": "slider",
+      "priority": 47,
+      "size": "100x300",
+      "images": [
+        "https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.u2.jpg",
+        "https://ih1.redbubble.net/image.4598462114.1838/mo,small,flatlay,product_square,600x600.jpg"
+      ]
+    },
+    
+    "_widget_97": {
+      "type": "sized_box",
+      "height": 30
+    }
+  }
 }

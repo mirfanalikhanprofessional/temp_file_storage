@@ -5,7 +5,7 @@
   "isGoogleEnabled": true,
   "isAppleEnabled": true,
   "loginBtnText": "Log In",
-  "signupBtnText": "Create Accountt",
+  "signupBtnText": "Signup",
   "endpoints": {
     "base": "https://some-api.com/",
     "login": "login",
